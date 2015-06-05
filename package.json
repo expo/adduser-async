@@ -1,0 +1,28 @@
+{
+  "name": "adduser-async",
+  "version": "1.0.0",
+  "description": "A module for adding users and seeing if they exist, on Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/adduser-async.git"
+  },
+  "keywords": [
+    "adduser",
+    "promise",
+    "linux",
+    "useradd"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/adduser-async/issues"
+  },
+  "homepage": "https://github.com/exponentjs/adduser-async#readme",
+  "dependencies": {
+    "exec-async": "^2.0.1"
+  }
+}
